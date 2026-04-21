@@ -1,0 +1,1 @@
+{\n  "name": "circuit-simulator",\n  "private": true,\n  "workspaces": [\n    "backend",\n    "frontend",\n    "admin",\n    "simulator-engine"\n  ],\n  "scripts": {\n    "install": "lerna bootstrap",\n    "start": "lerna run start"\n  }\n}
